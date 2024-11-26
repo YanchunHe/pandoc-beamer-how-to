@@ -8,8 +8,8 @@ PANDOC_FLAGS = -t beamer --slide-level 2 -s
 
 # convert to pdf doc
 #PANDOC_FLAGS = -H header.tex --pdf-engine xelatex
-PANDOC_FLAGS = --toc -t pdf -s -f commonmark_x
-PDF_FILE = pandoc-doc.pdf
+#PANDOC_FLAGS = --toc -t pdf -s -f commonmark_x
+#PDF_FILE = pandoc-doc.pdf
 
 # Default target
 all: $(PDF_FILE)
