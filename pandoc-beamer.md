@@ -1,8 +1,8 @@
 ---
-title: "My wonderful presentation"
-author: "Alexey Gumirov"
-institute: "My home office"
-topic: "Pandoc how-to"
+title: "My pandoc beamer template"
+author: "Yanchun He"
+institute: "NERSC"
+topic: ["Topic1", "Topic2"]
 theme: "Frankfurt"
 colortheme: "beaver"
 fonttheme: "professionalfonts"
